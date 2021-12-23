@@ -2,7 +2,9 @@
 - 👀 I’m interested in frontend development with react.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+  - email : daniyal.madmolil@gmail.com
+  - phone : +989382222869
 
 <!---
 danimadmolil/danimadmolil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
