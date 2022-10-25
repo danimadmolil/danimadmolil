@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danimadmolil
 - 👀 I’m interested in frontend development with react.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Nextjs, pwa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   - email : daniyal.madmolil@gmail.com
