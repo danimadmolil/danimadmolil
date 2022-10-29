@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danimadmolil
+- 👋 Hi, I’m daniyal madmolil
 - 👀 I’m interested in frontend development with react.
 - 🌱 I’m currently learning Nextjs, pwa
 - 💞️ I’m looking to collaborate on ...
