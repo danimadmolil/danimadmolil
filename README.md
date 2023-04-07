@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   - email : daniyal.madmolil@gmail.com
-  - phone : +989382222869
+  - phone : +989046335532
 
 <!---
 danimadmolil/danimadmolil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
