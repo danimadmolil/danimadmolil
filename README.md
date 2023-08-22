@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Nextjs, pwa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-  - email : daniyal.madmolil@gmail.com
+  - email : dani.madmolil@gmail.com
   - phone : +989046335532
 
 <!---
